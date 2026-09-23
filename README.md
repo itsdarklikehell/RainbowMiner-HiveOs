@@ -1423,6 +1423,14 @@ Since I changed and optimized the script a lot to suit my needs, I decided to ma
 - BCH: 1MGRzyaLjQ67ZwwL9QTbXzwLxa8x1qSTBD
 - ETH: 0x3084A8657ccF9d21575e5dD8357A2DEAf1904ef6
 
+## PROJECT VISUALIZATION
+
+Development activity (14k+ commits over years of mining software evolution):
+
+![Gource visualization](gource_readme.gif)
+
+Full-length dev history video: [gource_readme.mp4](gource_readme.mp4) (15 s, 1920x1080).
+
 ### All Thanks To Our Contributors:
 
 [![contributors](https://api.rbminer.net/contributors.php)](https://github.com/RainbowMiner/RainbowMiner/graphs/contributors)
